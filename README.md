@@ -1,7 +1,7 @@
 # Dimentia-Patient-Detection and Monitoring System
 Welcome to the Dimentia-Patient-Detection and Monitoring System project! This system is designed to enhance the safety of Rock climbers by providing real-time vital monitoring and GPS tracking capabilities. By incorporating IoT technology, this project aims to address the challenges faced during search and rescue operations in remote or high-altitude locations. It enables patient and their guardian to track vital signs and location, allowing for prompt action in case of accidents or emergencies.
 
-#Components
+#Components:
 To build the Dimentia-Patient-Detection and Monitoring System, you will need the following components:
 ESP8266 WiFi Module
 GPS (NEO-6M)
